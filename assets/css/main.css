@@ -9,4 +9,7 @@ p, h3, h4, h5, h6 li {
 
 .about {
   font-weight: 500;
+  position: absolute;
+  left: 230px;
+  bottom: 370px;
 }
